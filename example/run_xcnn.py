@@ -2,7 +2,7 @@ import os, os.path
 import numpy as np
 from tqdm import tqdm
 
-PYTHON = '/home/yizhou/anaconda2/envs/py37/bin/python'
+PYTHON = 'python3'
 SCRIPT = '../xcnn/main.py'
 CFG_PATH = 'xcnn/config'
 LOG_PATH = 'xcnn/log'

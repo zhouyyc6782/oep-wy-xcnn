@@ -2,7 +2,7 @@ import os, os.path
 import numpy as np
 from tqdm import tqdm
 
-PYTHON = '/home/yizhou/anaconda2/envs/pytorch/bin/python'
+PYTHON = 'python3'
 SCRIPT = '../nn-train/test.py'
 CFG_PATH = 'nn-train/test'
 LOG_PATH = 'nn-train/test'

@@ -1,7 +1,7 @@
 from __future__ import print_function
 import os, os.path
 
-PYTHON = "/home/yizhou/anaconda2/envs/pytorch/bin/python"
+PYTHON = "python3"
 SCRIPT = "../nn-train/main.py"
 CFG_PATH = "nn-train/train/train.cfg"
 

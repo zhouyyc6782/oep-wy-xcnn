@@ -2,7 +2,7 @@ import os, os.path
 import numpy as np
 from tqdm import tqdm
 
-PYTHON = '/home/yizhou/anaconda2/envs/py37/bin/python'
+PYTHON = 'python'
 SCRIPT = '../oep-wy/main.py'
 CFG_PATH = 'oep-wy/config'
 LOG_PATH = 'oep-wy/log'
